@@ -1,4 +1,4 @@
-# functional-programming
+# functional-programming :book:
 
 1. 함수형 프로그래밍 개요
 2. 함수형으로 전환하기
